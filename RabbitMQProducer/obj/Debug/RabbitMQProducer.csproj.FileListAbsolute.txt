@@ -1,0 +1,11 @@
+D:\VS-Project\RabbitMQDemo\RabbitMQProducer\bin\Debug\RabbitMQProducer.exe.config
+D:\VS-Project\RabbitMQDemo\RabbitMQProducer\bin\Debug\RabbitMQProducer.exe
+D:\VS-Project\RabbitMQDemo\RabbitMQProducer\bin\Debug\RabbitMQProducer.pdb
+D:\VS-Project\RabbitMQDemo\RabbitMQProducer\bin\Debug\RabbitMQ.Client.dll
+D:\VS-Project\RabbitMQDemo\RabbitMQProducer\bin\Debug\RabbitMQDemo.exe
+D:\VS-Project\RabbitMQDemo\RabbitMQProducer\bin\Debug\RabbitMQDemo.pdb
+D:\VS-Project\RabbitMQDemo\RabbitMQProducer\bin\Debug\RabbitMQ.Client.xml
+D:\VS-Project\RabbitMQDemo\RabbitMQProducer\obj\Debug\RabbitMQProducer.csprojResolveAssemblyReference.cache
+D:\VS-Project\RabbitMQDemo\RabbitMQProducer\obj\Debug\RabbitMQProducer.exe
+D:\VS-Project\RabbitMQDemo\RabbitMQProducer\obj\Debug\RabbitMQProducer.pdb
+D:\VS-Project\RabbitMQDemo\RabbitMQProducer\bin\Debug\App.config
